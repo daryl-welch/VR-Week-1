@@ -5,10 +5,19 @@
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
+/[Qq]uest Builds/
+/[Bb]ackups/
 /[Ll]ogs/
+/[Pp]ackages/
 /[Uu]ser[Ss]ettings/
+/[Aa]ssets/ExampleAssets/
+/[Aa]ssets/Oculus/
+/[Aa]ssets/Resources/
+/[Aa]ssets/Samples/
+/[Aa]ssets/StreamingAssets/
+/[Aa]ssets/XR/
+/[Aa]ssets/XRI/
+
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
